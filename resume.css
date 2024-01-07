@@ -1,0 +1,93 @@
+.ORANGE{
+     height: 220px;
+     width: 60%;
+     background-color: #FFB996;
+     position: relative;
+     margin-top: 30px;
+     
+     
+}
+
+.pro{
+
+    width: 220px;
+    background-color:#008080;
+    color: white;
+    margin-left: 30px;
+     padding: 30px 10px 10px 10px; 
+     font-style: italic;
+     padding-bottom: 140px;
+}
+
+img{
+    border: 2px solid#fff;
+    border-radius: 50%;
+}
+
+.name{
+    position: absolute;
+    top: 80px;
+    left: 260px;
+    padding-left: 50px;
+    
+}
+
+.ski{
+    padding-top: 50px;
+
+    
+}
+
+.con{
+    padding-top: 60px;
+
+}
+
+
+
+body{
+    color: black;
+    
+}
+
+.edu{
+    margin-left: 310px;
+
+}
+
+h4{
+    margin-left:300px ;
+}
+
+.bac{
+    margin-left:300px ;
+}
+.lan{
+    margin-left: 310px;
+    padding-top: 50px;
+}
+
+.skuu{
+    margin-left: 310px;
+    padding-top: 50px;
+
+}
+.myskuu{
+    margin-left:300px ;
+
+
+}
+
+
+.nat{
+     margin-left: 300px;
+}
+
+.hob{
+    margin-left: 310px;
+    padding-top: 50px;
+}
+
+.hobi{
+    margin-left: 300px;
+}
